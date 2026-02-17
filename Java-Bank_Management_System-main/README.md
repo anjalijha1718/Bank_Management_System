@@ -9,14 +9,14 @@ getting faster and faster day-by-day.
 • Thus, considering the above necessities, the system for bank management has
 become necessary which would be useful in managing the bank more
 efficiently.
-
+----------
 ## Problem Statement:
 • The Bank Management system consists of the bank administrator and
 the customer. The administrator will need to create a new account for
 the customer by logging into their existing account. The system executes operations like creating a new account, checking
 the balance of the account, withdrawing, depositing, money transfers
 between two accounts, and viewing transaction history.
-
+----------
 ## Project:
 **Login Page:**
 Administrator(user) have to insert his credentials to access the system. All the
@@ -44,7 +44,7 @@ On loading, the user has to enter the account no’s from which he wishes to tra
 **Admin Page:** 
 It allows the existing administrator to create new administrators and delete existing
 administrator.
-
+------------
 ## System Requirements:
 
 • **Interpreters:** Java and Java Database Connectivity(JDBC).
@@ -54,7 +54,7 @@ administrator.
 • **Database:** MySQL.
 
 • **Hardware:** 10GB storage, 4gb ram 4.1.2
-
+--------------
 ## Conclusion:
 
 - Bank management system is a virtualization of transactions in banking system. 
