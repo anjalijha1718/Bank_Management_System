@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- You may freely edit this file. See commented blocks below for          -->
-<!-- some examples of how to customize the build.     -->
+<!-- some examples of how to customize the build.         -->
 <!-- (If you delete it and reopen the project it will          be recreated.)       -->
 <!-- By default, only the Clean and Build commands use this build script.       -->
 <!-- Commands such as Run, Debug, and Test only use this build script if        -->
@@ -10,7 +10,7 @@
 <project name="sanbank" default="default" basedir=".">
     <description>Builds, tests , and runs the project sanbank. </description>
     <import file="nbproject/build-impl.xml"/>
-    <!-- There exist several targets which are by default empty and which can be 
+    <!--       There exist several targets which are by default empty and which can be 
     used for execution of your tasks. These targets are usually executed 
     before and after some main targets. They are: 
 
